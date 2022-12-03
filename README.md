@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hacker-57
-- 👀 I’m interested in ... C++ and Python
+- 👀 I’m interested in ... C++, Python and Java
 - 🌱 I’m currently learning ... OpenCV in Python
 
 <!---
